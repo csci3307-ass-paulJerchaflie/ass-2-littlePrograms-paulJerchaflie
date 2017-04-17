@@ -28,6 +28,7 @@ public class Program_2_15 {
 		System.out.printf("Subtract: %d%n", num1-num2);
 		System.out.printf("Multiply: %d%n", num1*num2);
 		System.out.printf("Divide: %d%n", num1/num2);
+		scan.close();
 		
 	}
 
