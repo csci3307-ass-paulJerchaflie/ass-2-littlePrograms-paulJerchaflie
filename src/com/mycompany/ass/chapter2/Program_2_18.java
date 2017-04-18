@@ -24,7 +24,7 @@ public class Program_2_18 {
 "*       *  *     *     *       * *       %n"+
 "*********    ***       *        *        %n");
 		
-		
+		System.out.println(true^false);
 
 	}
 
